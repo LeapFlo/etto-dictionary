@@ -2298,10 +2298,10 @@
   {
     "english" : "to go",
     "jlptLevel" : "N5",
-    "kana" : "いく; ゆく",
+    "kana" : "いく\/ ゆく",
     "kanji" : "行く",
-    "romaji" : "iku; yuku",
-    "usageLevel" : "basic"
+    "romaji" : "iku \/ yuku",
+    "usageLevel" : "common"
   },
   {
     "english" : "pond",
@@ -52680,7 +52680,7 @@
     "usageLevel" : "advanced"
   },
   {
-    "english" : "still, yet, not yet, even, as much as",
+    "english" : "yet, still, besides",
     "jlptLevel" : "N5",
     "kana" : "まだ",
     "kanji" : "まだ",
