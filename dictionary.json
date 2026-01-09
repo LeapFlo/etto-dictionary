@@ -26768,12 +26768,12 @@
     "usageLevel" : "advanced"
   },
   {
-    "english" : "time, hour",
-    "jlptLevel" : "N5",
+    "english" : "time",
+    "jlptLevel" : "N1",
     "kana" : "じかん",
     "kanji" : "時間",
     "romaji" : "jikan",
-    "usageLevel" : "common"
+    "usageLevel" : "advanced"
   },
   {
     "english" : "~ hours",
@@ -33952,12 +33952,12 @@
     "usageLevel" : "common"
   },
   {
-    "english" : "pleasure, joy",
+    "english" : "looking forward to something, little pleasure, enjoyment",
     "jlptLevel" : "N4",
     "kana" : "たのしみ",
     "kanji" : "楽しみ",
     "romaji" : "tanoshimi",
-    "usageLevel" : "advanced"
+    "usageLevel" : "common"
   },
   {
     "english" : "to enjoy",
