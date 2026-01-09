@@ -30704,7 +30704,7 @@
     "usageLevel" : "common"
   },
   {
-    "english" : "narrow, cramped, not spacious",
+    "english" : "narrow; not spacious",
     "jlptLevel" : "N5",
     "kana" : "せまい",
     "kanji" : "狭い",
@@ -64245,6 +64245,14 @@
     "kana" : "コンピュータ; コンピューター",
     "kanji" : "コンピュータ; コンピューター",
     "romaji" : "konpyuuta; konpyuutaa",
+    "usageLevel" : "common"
+  },
+  {
+    "english" : "kitchen in home and restaurants",
+    "jlptLevel" : "N5",
+    "kana" : "キッチン",
+    "kanji" : "",
+    "romaji" : "kicchin",
     "usageLevel" : "common"
   }
 ]
