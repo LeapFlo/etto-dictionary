@@ -52680,7 +52680,7 @@
     "usageLevel" : "advanced"
   },
   {
-    "english" : "yet, still, besides",
+    "english" : "still, yet, not yet, even, as much as",
     "jlptLevel" : "N5",
     "kana" : "まだ",
     "kanji" : "まだ",
@@ -64251,7 +64251,7 @@
     "english" : "kitchen in home and restaurants",
     "jlptLevel" : "N5",
     "kana" : "キッチン",
-    "kanji" : "キッチン",
+    "kanji" : "",
     "romaji" : "kicchin",
     "usageLevel" : "common"
   }
