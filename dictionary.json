@@ -15624,14 +15624,6 @@
     "usageLevel" : "common"
   },
   {
-    "english" : "approximate (quantity)",
-    "jlptLevel" : "N5",
-    "kana" : "～くらい; ぐらい",
-    "kanji" : "～くらい; ぐらい",
-    "romaji" : "～kurai; gurai",
-    "usageLevel" : "common"
-  },
-  {
     "english" : "living; life style",
     "jlptLevel" : "N3",
     "kana" : "くらし",
@@ -64269,6 +64261,14 @@
     "kana" : "やきゅう",
     "kanji" : "野球",
     "romaji" : "yakyū",
+    "usageLevel" : "common"
+  },
+  {
+    "english" : "approximate, about, around (quantity)",
+    "jlptLevel" : "N5",
+    "kana" : "くらい, ぐらい",
+    "kanji" : "ぐらい",
+    "romaji" : "kurai, gurai",
     "usageLevel" : "common"
   }
 ]
