@@ -2032,12 +2032,12 @@
     "usageLevel" : "common"
   },
   {
-    "english" : "house",
+    "english" : "house (the building)",
     "jlptLevel" : "N5",
     "kana" : "いえ",
     "kanji" : "家",
     "romaji" : "ie",
-    "usageLevel" : "basic"
+    "usageLevel" : "common"
   },
   {
     "english" : "house, home",
