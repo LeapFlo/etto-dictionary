@@ -51944,12 +51944,12 @@
     "usageLevel" : "advanced"
   },
   {
-    "english" : "I (casual, used by men)",
+    "english" : "I (used by men towards those of equal or lower status)",
     "jlptLevel" : "N4",
     "kana" : "ぼく",
     "kanji" : "僕",
     "romaji" : "boku",
-    "usageLevel" : "common"
+    "usageLevel" : "advanced"
   },
   {
     "english" : "pastor, minister, clergyman",
@@ -64258,7 +64258,7 @@
   {
     "english" : "1. Expecting agreement: I mean right?, you agree don’t you?\n2. Soft assertion: I’m pretty sure",
     "jlptLevel" : "N5",
-    "kana" : "でしょう \/ でしょ(casual)",
+    "kana" : "でしょう \/ でしょ",
     "kanji" : "でしょう",
     "romaji" : "deshou",
     "usageLevel" : "common"
