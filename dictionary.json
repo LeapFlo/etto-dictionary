@@ -31632,14 +31632,6 @@
     "usageLevel" : "advanced"
   },
   {
-    "english" : "and, like that",
-    "jlptLevel" : "N5",
-    "kana" : "そうして; そして",
-    "kanji" : "そうして; そして",
-    "romaji" : "soushite; soshite",
-    "usageLevel" : "common"
-  },
-  {
     "english" : "ornament",
     "jlptLevel" : "N1",
     "kana" : "そうしょく",
@@ -31989,14 +31981,6 @@
     "kana" : "そしつ",
     "kanji" : "素質",
     "romaji" : "soshitsu",
-    "usageLevel" : "advanced"
-  },
-  {
-    "english" : "and then",
-    "jlptLevel" : "N3",
-    "kana" : "そして",
-    "kanji" : "そして",
-    "romaji" : "soshite",
     "usageLevel" : "advanced"
   },
   {
@@ -64269,6 +64253,14 @@
     "kana" : "くらい, ぐらい",
     "kanji" : "ぐらい",
     "romaji" : "kurai, gurai",
+    "usageLevel" : "common"
+  },
+  {
+    "english" : "and, and then",
+    "jlptLevel" : "N5",
+    "kana" : "そして",
+    "kanji" : "そして",
+    "romaji" : "soshite",
     "usageLevel" : "common"
   }
 ]
