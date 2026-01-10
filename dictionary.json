@@ -7040,7 +7040,7 @@
     "usageLevel" : "common"
   },
   {
-    "english" : "please (lit., I request)",
+    "english" : "please (lit. I request) 😊",
     "jlptLevel" : "N2",
     "kana" : "おねがいします",
     "kanji" : "お願いします",
@@ -28400,12 +28400,12 @@
     "usageLevel" : "advanced"
   },
   {
-    "english" : "shrine",
-    "jlptLevel" : "N5",
+    "english" : "shinto shrine",
+    "jlptLevel" : "N1",
     "kana" : "じんじゃ",
     "kanji" : "神社",
     "romaji" : "jinja",
-    "usageLevel" : "basic"
+    "usageLevel" : "common"
   },
   {
     "english" : "Shinto shrine",
