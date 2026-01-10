@@ -51944,7 +51944,7 @@
     "usageLevel" : "advanced"
   },
   {
-    "english" : "I (casual, used by men)",
+    "english" : "I (casual, mostly used by men)",
     "jlptLevel" : "N4",
     "kana" : "ぼく",
     "kanji" : "僕",
@@ -64248,19 +64248,19 @@
     "usageLevel" : "common"
   },
   {
-    "english" : "kitchen in home and restaurants",
-    "jlptLevel" : "N5",
-    "kana" : "キッチン",
-    "kanji" : "",
-    "romaji" : "kicchin",
-    "usageLevel" : "common"
-  },
-  {
     "english" : "1. Expecting agreement: I mean right?, you agree don’t you?\n2. Soft assertion: I’m pretty sure",
     "jlptLevel" : "N5",
     "kana" : "でしょう \/ でしょ",
     "kanji" : "でしょう",
     "romaji" : "deshou",
+    "usageLevel" : "common"
+  },
+  {
+    "english" : "kitchen in home and restaurants",
+    "jlptLevel" : "N5",
+    "kana" : "キッチン",
+    "kanji" : "キッチン",
+    "romaji" : "kicchin",
     "usageLevel" : "common"
   }
 ]
