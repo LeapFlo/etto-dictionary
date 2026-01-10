@@ -27456,14 +27456,6 @@
     "usageLevel" : "advanced"
   },
   {
-    "english" : "well, well then",
-    "jlptLevel" : "N5",
-    "kana" : "じゃ; じゃあ",
-    "kanji" : "じゃ; じゃあ",
-    "romaji" : "ja; jaa",
-    "usageLevel" : "common"
-  },
-  {
     "english" : "dwelling, living",
     "jlptLevel" : "N3",
     "kana" : "じゅう",
@@ -64261,6 +64253,14 @@
     "kana" : "キッチン",
     "kanji" : "キッチン",
     "romaji" : "kicchin",
+    "usageLevel" : "common"
+  },
+  {
+    "english" : "well, well then",
+    "jlptLevel" : "N5",
+    "kana" : "じゃ、じゃあ",
+    "kanji" : "じゃあ",
+    "romaji" : "ja; jaa",
     "usageLevel" : "common"
   }
 ]
