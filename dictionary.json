@@ -26760,12 +26760,12 @@
     "usageLevel" : "advanced"
   },
   {
-    "english" : "time",
-    "jlptLevel" : "N1",
+    "english" : "time, hour",
+    "jlptLevel" : "N5",
     "kana" : "じかん",
     "kanji" : "時間",
     "romaji" : "jikan",
-    "usageLevel" : "advanced"
+    "usageLevel" : "common"
   },
   {
     "english" : "~ hours",
