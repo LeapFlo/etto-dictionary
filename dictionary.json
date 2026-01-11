@@ -20600,14 +20600,6 @@
     "usageLevel" : "advanced"
   },
   {
-    "english" : "~ years old",
-    "jlptLevel" : "N5",
-    "kana" : "～さい",
-    "kanji" : "～歳",
-    "romaji" : "～sai",
-    "usageLevel" : "common"
-  },
-  {
     "english" : "meeting again, reunion",
     "jlptLevel" : "N1",
     "kana" : "さいかい",
@@ -64285,6 +64277,14 @@
     "kana" : "ほら",
     "kanji" : "ほら",
     "romaji" : "hora",
+    "usageLevel" : "common"
+  },
+  {
+    "english" : "~ years old",
+    "jlptLevel" : "N5",
+    "kana" : "さい",
+    "kanji" : "歳",
+    "romaji" : "sai",
     "usageLevel" : "common"
   }
 ]
