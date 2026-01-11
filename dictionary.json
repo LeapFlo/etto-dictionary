@@ -64302,5 +64302,13 @@
     "kanji" : "まで",
     "romaji" : "made",
     "usageLevel" : "common"
+  },
+  {
+    "english" : "dinosaurs",
+    "jlptLevel" : "N3",
+    "kana" : "きょうりゅう",
+    "kanji" : "恐竜",
+    "romaji" : "kyōryū",
+    "usageLevel" : "advanced"
   }
 ]
