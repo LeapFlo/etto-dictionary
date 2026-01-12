@@ -9168,14 +9168,6 @@
     "usageLevel" : "common"
   },
   {
-    "english" : "every ~, each ~",
-    "jlptLevel" : "N2",
-    "kana" : "かく～",
-    "kanji" : "各～",
-    "romaji" : "kaku～",
-    "usageLevel" : "advanced"
-  },
-  {
     "english" : "to sniff, to smell",
     "jlptLevel" : "N3",
     "kana" : "かぐ",
@@ -64310,5 +64302,13 @@
     "kanji" : "なんか",
     "romaji" : "nanka",
     "usageLevel" : "common"
+  },
+  {
+    "english" : "every, each",
+    "jlptLevel" : "N2",
+    "kana" : "かく～",
+    "kanji" : "各～",
+    "romaji" : "kaku",
+    "usageLevel" : "advanced"
   }
 ]
