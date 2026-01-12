@@ -42728,14 +42728,6 @@
     "usageLevel" : "common"
   },
   {
-    "english" : "in the least ~",
-    "jlptLevel" : "N1",
-    "kana" : "～なんか",
-    "kanji" : "～なんか",
-    "romaji" : "～nanka",
-    "usageLevel" : "advanced"
-  },
-  {
     "english" : "south pole, Antarctic",
     "jlptLevel" : "N2",
     "kana" : "なんきょく",
@@ -64309,6 +64301,14 @@
     "kana" : "きょうりゅう",
     "kanji" : "恐竜",
     "romaji" : "kyōryū",
+    "usageLevel" : "advanced"
+  },
+  {
+    "english" : "kind of, not quite, it’s like (casual filler)",
+    "jlptLevel" : "N5",
+    "kana" : "なんか",
+    "kanji" : "なんか",
+    "romaji" : "nanka",
     "usageLevel" : "advanced"
   }
 ]
