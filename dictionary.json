@@ -776,12 +776,12 @@
     "usageLevel" : "common"
   },
   {
-    "english" : "warm",
+    "english" : "warm (ambient, comforting)",
     "jlptLevel" : "N5",
     "kana" : "あたたかい",
     "kanji" : "暖かい",
     "romaji" : "atatakai",
-    "usageLevel" : "basic"
+    "usageLevel" : "common"
   },
   {
     "english" : "to warm up",
