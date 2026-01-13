@@ -64310,5 +64310,13 @@
     "kanji" : "各～",
     "romaji" : "kaku",
     "usageLevel" : "advanced"
+  },
+  {
+    "english" : "ambulance",
+    "jlptLevel" : "N4",
+    "kana" : "きゅうきゅうしゃ",
+    "kanji" : "救急車",
+    "romaji" : "kyūkyūsha",
+    "usageLevel" : "common"
   }
 ]
