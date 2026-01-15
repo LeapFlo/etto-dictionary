@@ -64326,5 +64326,13 @@
     "kanji" : "完璧",
     "romaji" : "kanpeki",
     "usageLevel" : "common"
+  },
+  {
+    "english" : "have something to talk about, need to talk (to someone)",
+    "jlptLevel" : "N4",
+    "kana" : "はなしがある",
+    "kanji" : "話しがある",
+    "romaji" : "hanashi ga aru",
+    "usageLevel" : "common"
   }
 ]
