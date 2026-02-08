@@ -64,12 +64,12 @@
     "usageLevel" : "advanced"
   },
   {
-    "english" : "space, interval",
-    "jlptLevel" : "N4",
+    "english" : "between, space, interval",
+    "jlptLevel" : "N5",
     "kana" : "あいだ",
     "kanji" : "間",
     "romaji" : "aida",
-    "usageLevel" : "advanced"
+    "usageLevel" : "common"
   },
   {
     "english" : "relationship",
